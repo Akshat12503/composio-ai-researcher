@@ -21,6 +21,8 @@ python -m venv venv
 # On Windows: .\venv\Scripts\activate
 # On Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt
+```
+
 3. Environment Setup
 Create a .env file in the root directory and add your Google Gemini API key:
 
@@ -46,3 +48,6 @@ Once you save that `README.md`, run your quick Git commands to push it up:
 git add README.md
 git commit -m "Add instructions to README"
 git push
+```
+
+# HTML Link: https://akshat12503.github.io/composio-ai-researcher/
